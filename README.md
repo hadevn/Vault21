@@ -6,4 +6,4 @@ I removed some code which I didn't want to be posted on my github or publicly. T
 
 I don't guarantee that the code is still upd2date, or that the core is clean, or well designed. Multiple devs worked on this, and some didn't have enough coding experience and/or didn't orientate on the coding style.
 
-This code is not for commercial usage. Howeverm, feel free to use it for learning purpose or for yourself.
+This code is not for commercial usage. However, feel free to use it for learning purpose or for yourself.
